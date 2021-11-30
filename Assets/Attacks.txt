@@ -1,0 +1,31 @@
+Base:
+Fireball -> fire
+Lightning -> lightning
+Earthwall -> earth
+Sufer (?) -> water
+Icecube (freezing) -> ice
+
+Combination:
+fire + fire = big fireball
+fire + earth = lava pillar
+fire + water = steam (blind enemies?)
+fire + ice = melting icecube (kirby)
+fire + lightning = ?
+
+lightning + lightning = lightningstorm
+lightning + earth = earth golem summon
+lightninng + water = self shock + speedboost (mario kart cloud)
+lightning + fire = ?
+lightning + ice = ice shard expolision (?)
+
+earth + earth = rockskin (DR + speed penalty)
+earth + fire = lava pillar
+earth + lightning = earth golem summon
+earth + water = mud (slow enemies)
+earth + ice = ?
+
+water + water
+water + fire = steam
+water + lightning = self shock + speedboost
+water + earth = mud
+water + ice =

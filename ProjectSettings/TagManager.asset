@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CD3
+  - CD4
+  - CD2
+  - CD1
+  - Lightning
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG
+  - Ground
+  - Player
+  - Climbing
+  - Truck-kun
+  - Bounce
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 621524641
+    locked: 0
+  - name: Water
+    uniqueID: 495062611
+    locked: 0
+  - name: platform
+    uniqueID: 3125364473
+    locked: 0
+  - name: climbing
+    uniqueID: 297154349
+    locked: 0
+  - name: npc
+    uniqueID: 376188957
+    locked: 0
+  - name: effects
+    uniqueID: 2911241279
+    locked: 0
+  - name: player
+    uniqueID: 3470763409
+    locked: 0
