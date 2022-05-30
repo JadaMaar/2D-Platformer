@@ -1,1 +1,1 @@
-2D-Platformer develped by JadaMaar
+2D-Platformer developed by JadaMaar
